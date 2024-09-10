@@ -1,0 +1,133 @@
+body {
+    background-image: url(imagens/up6.jpg);
+    background-position: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    letter-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 0px 10px cornsilk;
+
+}
+
+#me {
+    border-radius: 100px;
+    padding: 1px;
+    width: 125px;
+    height: 125px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    margin-top: 50px;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgba(146, 146, 146, 0.452);
+
+}
+
+#um {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #f1fbff;
+    padding: 14px 100px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#dois {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #f1fbff;
+    padding: 14px 100px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#tres {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #f1fbff;
+    padding: 14px 100px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+#quatro {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #f1fbff;
+    padding: 14px 100px;
+    width: 150px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a:link,
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+#con {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+#cont {
+    width: 50px;
+    /* ajusta o tamanho*/
+    border: 1px;
+    /*coloca borda na imagem*/
+    border-radius: 50px;
+    /*arredonda a borda*/
+    background-color: #f1fbff;
+    /*cor de fundo borda*/
+    margin-inline: 10px;
+}
+
+#cont1 {
+    width: 50PX;
+    /* ajusta o tamanho*/
+    border: 1px;
+    /*coloca borda na imagem*/
+    border-radius: 50px;
+    /*arredonda a borda*/
+    background-color: #f1fbff;
+    /*cor de fundo borda*/
+    margin-inline: 10px;
+
+}
+
+#fre {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+    text-align: right;
+    border: 0;
+    font-size:small;
+    
+
+}
