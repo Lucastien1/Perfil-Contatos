@@ -1,3 +1,3 @@
-- Meu Perfil
-- Incluindo contastos e curriculum
+- Perfil de contatos.
+- Incluindo contatos e curriculum.
   
