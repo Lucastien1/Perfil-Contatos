@@ -1,3 +1,3 @@
 - Perfil de contatos.
-- Incluindo contatos e curriculum.
+- Incluido Contatos, Curriculum e Redes Sociais.
   
